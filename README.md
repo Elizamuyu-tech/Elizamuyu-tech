@@ -1,7 +1,7 @@
 # 👋 Olá, sou a Elizabete!
 
 > **Desenvolvedora Backend & Entusiasta de Dados**  
-> *Estudante de Ciência da Computação apaixonada por construir soluções escaláveis, integração de APIs e automação.*
+> *Estudante de Ciência da Computação, comunicativa e apaixonada por tecnologia. Adoro participar de eventos tech, construir soluções escaláveis, integrar APIs e automatizar processos.*
 
 ---
 
@@ -13,6 +13,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---

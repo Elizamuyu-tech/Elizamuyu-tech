@@ -4,9 +4,8 @@
 > *Estudante de Ciência da Computação, comunicativa e apaixonada por tecnologia. Adoro participar de eventos tech, construir soluções escaláveis, integrar APIs e automatizar processos.*
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18385368/182604297-b2875199-6e3e-42c2-849c-e6e879a83856.gif" alt="Dino" width="100%">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Dino.gif" alt="Dino Runner Loop" width="100%">
 </p>
----
 
 ### 🛠️ Tecnologias & Ferramentas
 

@@ -6,8 +6,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/jonasjohansen/jonasjohansen/main/dino.gif" alt="Dino Runner" width="100%">
 </p>
-
----
 ---
 
 ### 🛠️ Tecnologias & Ferramentas

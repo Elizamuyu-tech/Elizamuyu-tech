@@ -1,4 +1,4 @@
-# 👋 Olá, sou a Elizabete!
+#  Olá, sou a Elizabete!
 
 > **Desenvolvedora Backend & Entusiasta de Dados**  
 > *Estudante de Ciência da Computação, comunicativa e apaixonada por tecnologia. Adoro participar de eventos tech, construir soluções escaláveis, integrar APIs e automatizar processos.*
@@ -34,4 +34,5 @@
 
 ### 📬 Vamos Conectar?
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabete-fatima-1bba56398)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betyfatima5@gmail.com)

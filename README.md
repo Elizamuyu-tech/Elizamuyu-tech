@@ -1,22 +1,29 @@
 # 👋 Olá, sou a Elizabete!
 
-### 💻 Desenvolvedora Backend & Entusiasta de Dados
-Estudante de Ciência da Computação focada no desenvolvimento de soluções escaláveis em Java, integração com bancos de dados NoSQL/SQL e automação de processos.
+> **Desenvolvedora Backend & Entusiasta de Dados**  
+> *Estudante de Ciência da Computação apaixonada por construir soluções escaláveis, integração de APIs e automação.*
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** Java, C#, Python, SQL
-- **Frameworks & Libs:** Spring Boot, Spring Data
-- **Bancos de Dados:** MongoDB, SQL Server
-- **DevOps & Cloud:** Docker, Databricks
-- **Controle de Versões:** Git, GitHub
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📌 Projetos em Destaque
-- 🚀 **[API REST em Java, MongoDB & Docker](https://github.com/Elizamuyu-tech/java-mongodb-docker-api)**: Estruturação de backend em Java (Spring Boot) com persistência NoSQL e conteinerização via Docker.
+### 🚀 Projeto em Destaque
+
+* **[java-mongodb-docker-api](https://github.com/Elizamuyu-tech/java-mongodb-docker-api)**  
+  API RESTful desenvolvida em **Java** com **Spring Boot**, focada no gerenciamento de dados com banco NoSQL (**MongoDB**) e ambiente inteiramente conteinerizado via **Docker Compose**.
 
 ---
 
-📬 **Contato:** [E-mail](mailto:betyfatima5@gmail.com)
+### 📬 Vamos Conectar?
+
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betyfatima5@gmail.com)

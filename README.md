@@ -19,10 +19,16 @@
 
 ---
 
-### 🚀 Projeto em Destaque
+### 🚀 Projetos em Destaque
 
-* **[java-mongodb-docker-api](https://github.com/Elizamuyu-tech/java-mongodb-docker-api)**  
-  API RESTful desenvolvida em **Java** com **Spring Boot**, focada no gerenciamento de dados com banco NoSQL (**MongoDB**) e ambiente inteiramente conteinerizado via **Docker Compose**.
+* ⚔️ **[rpg-quest-java-console](https://github.com/Elizamuyu-tech/rpg-quest-java-console)**  
+  Jogo textual de RPG em **Java puro** aplicando os pilares de **POO** (Herança, Polimorfismo, Encapsulamento), Estruturas de Dados (`List`) e tratamento de exceções.
+
+* 📋 **[task-manager-java-api](https://github.com/Elizamuyu-tech/task-manager-java-api)**  
+  API RESTful para gestão de tarefas com **Spring Boot 3**, autenticação via **Spring Security + JWT**, banco relacional **PostgreSQL** e documentação com **Swagger**.
+
+* 🚀 **[java-mongodb-docker-api](https://github.com/Elizamuyu-tech/java-mongodb-docker-api)**  
+  API RESTful desenvolvida em **Java** com **Spring Boot**, focada em banco NoSQL (**MongoDB**) e ambiente inteiramente conteinerizado via **Docker Compose**.
 
 ---
 
